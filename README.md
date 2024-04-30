@@ -2,6 +2,9 @@
 
 ![Alt text](https://raw.githubusercontent.com/raviatkumar/Goodreads-Book/main/Images/Books.jpg)
 
+
+Dataset Link : Dataset Link : https://drive.google.com/drive/folders/1ugftcRXfT-7GkzH2YrHCV4mk_aa2l2us?usp=sharing
+
 **Problem Statement:**
 
 Explore a comprehensive dataset of books from the Goodreads API to analyze ratings, popularity, and genres. Conduct EDA to uncover trends, analyze ratings, popularity, genres, and develop a recommendation system for personalized book suggestions.
