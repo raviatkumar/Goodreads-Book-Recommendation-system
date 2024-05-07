@@ -2,11 +2,6 @@
 
 ![Alt text](https://raw.githubusercontent.com/raviatkumar/Goodreads-Book/main/Images/Books.jpg)
 
-
-### **Dataset**
-
-You can include the information about the dataset containing 30 CSV files in your GitHub README.md file using Markdown syntax. Here's how you can do it:
-
 ```
 ### Dataset Information
 - **Dataset Link:** [Dataset](https://drive.google.com/drive/folders/1ugftcRXfT-7GkzH2YrHCV4mk_aa2l2us?usp=sharing)
@@ -46,17 +41,9 @@ Explore a comprehensive dataset of books from the Goodreads API to analyze ratin
 3. Ensuring accuracy and effectiveness of the recommendation system.
 4. Addressing biases or limitations in the dataset.
 
-**Success Criteria:**
-
-1. Uncover meaningful insights through EDA.
-2. Develop an effective recommendation system for users.
-3. Provide actionable recommendations for stakeholders in the book industry.
-
 ### **Summary and Conclusion:**
 
 The project titled "Goodreads Book" aimed to explore a comprehensive dataset of books obtained from the Goodreads API to analyze ratings, popularity, and genres. The main objectives included conducting Exploratory Data Analysis (EDA) to understand the dataset's structure and identify trends, analyzing book ratings and factors influencing them, investigating book popularity based on reviews and ratings, exploring genre distribution and trends, and developing a recommendation system for personalized book suggestions.
-
-Throughout the project, various tasks were accomplished. The dataset was thoroughly explored, and key insights and trends were uncovered through EDA. Visualizations were used to illustrate trends and patterns in book ratings, popularity, and genres. Rating and popularity analysis reports provided insights into factors influencing book ratings and popularity, while genre analysis reports showcased trends in genre preferences among readers.
 
 One of the key challenges faced during the project was handling missing or incomplete data, which was addressed by imputation and data preprocessing techniques. Efficient management of large volumes of data was ensured to facilitate smooth analysis and modeling processes. The recommendation system was developed using cosine similarity to suggest relevant books to users based on their preferences and similarities between books.
 
