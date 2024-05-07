@@ -26,21 +26,6 @@ Explore a comprehensive dataset of books from the Goodreads API to analyze ratin
 4. Explore genre distribution and trends over time among readers.
 5. Develop a recommendation system for personalized book suggestions.
 
-**Expected Deliverables:**
-
-1. EDA report highlighting key insights and trends.
-2. Visualizations illustrating trends and patterns.
-3. Rating and popularity analysis reports.
-4. Genre analysis report showcasing trends.
-5. Recommendation system implementation for personalized suggestions.
-
-**Key Challenges:**
-
-1. Handling missing or incomplete data.
-2. Efficiently managing large volumes of data.
-3. Ensuring accuracy and effectiveness of the recommendation system.
-4. Addressing biases or limitations in the dataset.
-
 ### **Summary and Conclusion:**
 
 The project titled "Goodreads Book" aimed to explore a comprehensive dataset of books obtained from the Goodreads API to analyze ratings, popularity, and genres. The main objectives included conducting Exploratory Data Analysis (EDA) to understand the dataset's structure and identify trends, analyzing book ratings and factors influencing them, investigating book popularity based on reviews and ratings, exploring genre distribution and trends, and developing a recommendation system for personalized book suggestions.
